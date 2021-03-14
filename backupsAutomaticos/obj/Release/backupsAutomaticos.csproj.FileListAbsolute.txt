@@ -1,0 +1,47 @@
+E:\Users\work\Desktop\backups automaticos\backupsAutomaticos\bin\Release\backupsAutomaticos.exe.config
+E:\Users\work\Desktop\backups automaticos\backupsAutomaticos\bin\Release\backupsAutomaticos.exe
+E:\Users\work\Desktop\backups automaticos\backupsAutomaticos\bin\Release\backupsAutomaticos.pdb
+E:\Users\work\Desktop\backups automaticos\backupsAutomaticos\bin\Release\Google.Apis.Auth.dll
+E:\Users\work\Desktop\backups automaticos\backupsAutomaticos\bin\Release\Google.Apis.Auth.PlatformServices.dll
+E:\Users\work\Desktop\backups automaticos\backupsAutomaticos\bin\Release\Google.Apis.Core.dll
+E:\Users\work\Desktop\backups automaticos\backupsAutomaticos\bin\Release\Google.Apis.dll
+E:\Users\work\Desktop\backups automaticos\backupsAutomaticos\bin\Release\Google.Apis.Drive.v3.dll
+E:\Users\work\Desktop\backups automaticos\backupsAutomaticos\bin\Release\Google.Apis.PlatformServices.dll
+E:\Users\work\Desktop\backups automaticos\backupsAutomaticos\bin\Release\LuxGoogleService.dll
+E:\Users\work\Desktop\backups automaticos\backupsAutomaticos\bin\Release\Newtonsoft.Json.dll
+E:\Users\work\Desktop\backups automaticos\backupsAutomaticos\obj\Release\backupsAutomaticos.csproj.CoreCompileInputs.cache
+E:\Users\work\Desktop\backups automaticos\backupsAutomaticos\obj\Release\backupsAutomaticos.csproj.CopyComplete
+E:\Users\work\Desktop\backups automaticos\backupsAutomaticos\obj\Release\backupsAutomaticos.exe
+E:\Users\work\Desktop\backups automaticos\backupsAutomaticos\obj\Release\backupsAutomaticos.pdb
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\backupsAutomaticos.exe.config
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\backupsAutomaticos.exe
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\backupsAutomaticos.pdb
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\GoogleService.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\Google.Apis.Auth.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\Google.Apis.Drive.v3.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\Google.Apis.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\Google.Apis.Core.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\Newtonsoft.Json.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\GoogleService.pdb
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\Google.Apis.Auth.pdb
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\Google.Apis.Auth.xml
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\Google.Apis.Drive.v3.pdb
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\Google.Apis.Drive.v3.xml
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\Google.Apis.pdb
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\Google.Apis.xml
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\Google.Apis.Core.pdb
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\Google.Apis.Core.xml
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\Newtonsoft.Json.xml
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\obj\Release\backupsAutomaticos.csproj.CoreCompileInputs.cache
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\obj\Release\backupsAutomaticos.csproj.CopyComplete
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\obj\Release\backupsAutomaticos.exe
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\obj\Release\backupsAutomaticos.pdb
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\System.Configuration.ConfigurationManager.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\System.Security.AccessControl.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\System.Security.Permissions.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\System.Security.Principal.Windows.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\System.Configuration.ConfigurationManager.xml
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\System.Security.AccessControl.xml
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\System.Security.Permissions.xml
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\bin\Release\System.Security.Principal.Windows.xml
+E:\Users\work\Desktop\Nueva carpeta (2)\backupsAutomaticos\obj\Release\backupsAutomaticos.csprojAssemblyReference.cache
